@@ -1,0 +1,17 @@
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\EshopApi.deps.json
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\EshopApi.runtimeconfig.json
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\EshopApi.runtimeconfig.dev.json
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\EshopApi.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\EshopApi.pdb
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\ProductManagement.Core.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\ProductManagement.Data.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\SharedKernel.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\ProductManagement.Data.pdb
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\ProductManagement.Core.pdb
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\bin\Debug\netcoreapp2.0\SharedKernel.pdb
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\obj\Debug\netcoreapp2.0\EshopApi.csprojResolveAssemblyReference.cache
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\obj\Debug\netcoreapp2.0\EshopApi.csproj.CoreCompileInputs.cache
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\obj\Debug\netcoreapp2.0\EshopApi.AssemblyInfoInputs.cache
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\obj\Debug\netcoreapp2.0\EshopApi.AssemblyInfo.cs
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\obj\Debug\netcoreapp2.0\EshopApi.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\EshopApi\obj\Debug\netcoreapp2.0\EshopApi.pdb

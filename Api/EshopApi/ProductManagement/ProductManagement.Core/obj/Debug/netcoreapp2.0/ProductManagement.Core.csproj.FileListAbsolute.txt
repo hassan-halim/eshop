@@ -1,0 +1,11 @@
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\bin\Debug\netcoreapp2.0\ProductManagement.Core.deps.json
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\bin\Debug\netcoreapp2.0\ProductManagement.Core.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\bin\Debug\netcoreapp2.0\ProductManagement.Core.pdb
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\bin\Debug\netcoreapp2.0\SharedKernel.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\bin\Debug\netcoreapp2.0\SharedKernel.pdb
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\obj\Debug\netcoreapp2.0\ProductManagement.Core.csprojResolveAssemblyReference.cache
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\obj\Debug\netcoreapp2.0\ProductManagement.Core.csproj.CoreCompileInputs.cache
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\obj\Debug\netcoreapp2.0\ProductManagement.Core.AssemblyInfoInputs.cache
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\obj\Debug\netcoreapp2.0\ProductManagement.Core.AssemblyInfo.cs
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\obj\Debug\netcoreapp2.0\ProductManagement.Core.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\ProductManagement\ProductManagement.Core\obj\Debug\netcoreapp2.0\ProductManagement.Core.pdb
