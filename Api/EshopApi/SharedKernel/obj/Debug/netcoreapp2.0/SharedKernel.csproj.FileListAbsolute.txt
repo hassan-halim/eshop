@@ -1,0 +1,9 @@
+D:\hhalim\repos\Eshop\Api\EshopApi\SharedKernel\bin\Debug\netcoreapp2.0\SharedKernel.deps.json
+D:\hhalim\repos\Eshop\Api\EshopApi\SharedKernel\bin\Debug\netcoreapp2.0\SharedKernel.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\SharedKernel\bin\Debug\netcoreapp2.0\SharedKernel.pdb
+D:\hhalim\repos\Eshop\Api\EshopApi\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.csprojResolveAssemblyReference.cache
+D:\hhalim\repos\Eshop\Api\EshopApi\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.csproj.CoreCompileInputs.cache
+D:\hhalim\repos\Eshop\Api\EshopApi\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.AssemblyInfoInputs.cache
+D:\hhalim\repos\Eshop\Api\EshopApi\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.AssemblyInfo.cs
+D:\hhalim\repos\Eshop\Api\EshopApi\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.dll
+D:\hhalim\repos\Eshop\Api\EshopApi\SharedKernel\obj\Debug\netcoreapp2.0\SharedKernel.pdb
